@@ -1,0 +1,43 @@
+Class AnnotatedandDocument has JavaDoc comment: 
+/**
+ * This is a class Case1.
+ *
+ * @ClassDocumentation "This is a class Case1"
+ */
+
+
+Method CASE1function1 in class AnnotatedandDocument has JavaDoc comment: 
+/**
+     * This is a method1 inside CASE1.
+     *
+     * @MethodDocumentation "This is a method Case1Function1 inside Case1"
+     */
+
+
+Method CASE1function2 in class AnnotatedandDocument has JavaDoc comment: 
+/**
+     * This is a method2 inside CASE2.
+     *
+     * @MethodDocumentation "This is a CASE1function2  inside Case1"
+     */
+
+
+Class Only_Document has JavaDoc comment: 
+/**
+ * This is a  Case4
+
+ */
+
+
+Method Case4Function1 in class Only_Document has JavaDoc comment: 
+/**
+     * This is a method Case4Function1 inside Case4.
+     */
+
+
+Method Case4Function2 in class Only_Document has JavaDoc comment: 
+/**
+     * This is a  Case4Function2inside Case4.
+     */
+
+
